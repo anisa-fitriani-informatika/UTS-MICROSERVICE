@@ -18,6 +18,10 @@ Project ini mendemonstrasikan arsitektur Microservices menggunakan **Message Bro
 - Apache ActiveMQ (Running di localhost:8161)
 - Library: `express`, `rhea`, `body-parser`
 
+## Demo Video
+Klik link di bawah ini untuk melihat demonstrasi aplikasi:
+[Tonton Video Demonstrasi di Sini](https://drive.google.com/file/d/1zl_EIq8fgzTKfaS4J9alFnf0lmpJz0By/view?usp=drivesdk)
+
 ## Cara Menjalankan Aplikasi
 1. **Ekstrak/Clone** repository ini.
 2. Buka terminal di folder project, lalu jalankan:
